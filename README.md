@@ -91,12 +91,14 @@ cv2.destroyAllWindows()
 
 ### SCREEN SHOTS OF OUTPUT 
 
+![7thn output edge](https://github.com/user-attachments/assets/d6d0801c-3d24-4ef4-88d6-8fe4736ec776)
 
 
 
 
 ### RASPI INTERFACE 
 
+![WhatsApp Image 2025-05-15 at 11 36 59_4926bf55](https://github.com/user-attachments/assets/bfe34691-1116-42dd-b722-be2f4821c628)
 
 
 
